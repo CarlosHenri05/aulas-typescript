@@ -21,3 +21,12 @@ const numerosetextos: [number, string][] = [
   [1, 'Carlos'],
   [2, 'Pedro'],
 ]
+
+// Enums
+
+// São usados como constantes, igualmente em qualquer linguagem de programação.
+enum Constantes {
+  TEXTO1,
+  TEXTO2,
+  TEXTO3,
+}

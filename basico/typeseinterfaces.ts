@@ -47,4 +47,6 @@ type Window2 = {
 
 type Window2 = {
   ts: number
-} // Erro de dupla identificação, como dito anteriormente, tipos são imutáveis, não podendo ser re-abertos para novos tipos.
+}
+// Erro de dupla identificação, como dito anteriormente, tipos são imutáveis, não podendo ser re-abertos para novos tipos.
+//Duplicate identifier 'Window2'.
